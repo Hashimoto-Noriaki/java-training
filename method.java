@@ -5,7 +5,7 @@
 //1.自分で作るメソッド
 //2.Javaが用意してくれているメソッド　　ex) println 1行で変数の中身を表示
 
-class Kurikaeshi {
+class Kurikaeshi1 {
     //publicからがメソッド。メソッドの定義。
     //publicがアクセス修飾子(どこからアクセスできるか決めるもの)
     //static その他の修飾子
